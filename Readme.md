@@ -159,7 +159,6 @@ This example demonstrates how to load ten available animals (their status is 'av
                 foreach (var item in jsonElementArray) {
                     // Sometimes, the requested pets may have no name or id specified.
                     // To ensure they are specified, use the TryGetProperty method. 
-                    // The method returns false when an object does not have a specified property.
                     item.TryGetProperty("id", out JsonElement id);
                     item.TryGetProperty("name", out JsonElement name);
 
