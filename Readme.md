@@ -1,6 +1,6 @@
 ## Intro
 
-The PetStore is the largest artificial marketplace in the world where you can sell and buy artificial animals. The PetStore marketplace provides an API that you can use to integrate PetStore to your application, for example, your warehouse management software. With such integration you can to synchronize your warehouse items with the PetStore items: your warehouse software will reflect all the changes made within the PetStore, and vice versa.
+The PetStore is the largest artificial marketplace in the world where you can sell and buy artificial animals. The PetStore marketplace provides an API that you can use to integrate PetStore to your application, for example, your warehouse management software. With such integration you can synchronize your warehouse items with the PetStore items: your warehouse software will reflect all the changes made within the PetStore, and vice versa.
 
 
 ## Work with pets in the store
@@ -11,7 +11,7 @@ This section explains how to:
 
 - add a pet to the store
 - delete a pet from the store
-- get a pets from the store
+- get a pet from the store
 
 ### Add a pet to the store
 
